@@ -33,5 +33,5 @@
 > Diligence is rewarded by heaven !
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/你的用户名/你的用户名/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="./radar_chart.svg" alt="GitHub Activity Overview" width="500" />
 </div>
