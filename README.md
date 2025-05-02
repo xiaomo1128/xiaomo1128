@@ -24,9 +24,9 @@
 >
 > ### Hello, I am an experienced front-end developer focused on building high-quality user interfaces and interactive experiences. Feel free to reach out for collaboration!
 
-### 🏠 技术博客:
+### 🏠 Blob:
 - **[My juejin](https://juejin.cn/user/132388463586589/posts)**
-- **[https://xiaomo-tech.github.io](https://xiaomo-tech.github.io)**
+- **[My YuQue](https://www.yuque.com/u33888)**
 
 ### 🚀 项目经历:
 - **电商平台前端重构** - 使用 React + TypeScript 重构传统电商平台，提升用户体验和性能
