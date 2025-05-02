@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="100%" src="./assets/header.png" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Welcome%20To%20Watch&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80" width="100%"/></p>
 
 ## Hi there, I am xiaomo 👋
 
