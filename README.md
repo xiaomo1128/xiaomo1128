@@ -34,3 +34,7 @@
 <div align="center">
   <img src="./radar_chart.svg" alt="GitHub Activity Overview" width="500" />
 </div>
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
