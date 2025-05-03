@@ -29,12 +29,16 @@
 
 ### ⭐ Motto:
 
-> Diligence is rewarded by heaven !
+> Diligence is rewarded by heaven!
 
 <div align="center">
+  <h3>活动概览</h3>
   <img src="./radar_chart.svg" alt="GitHub Activity Overview" width="500" />
-</div>
-
-<div align="center">
+  
+  <h3>详细统计</h3>
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20For%20Visiting&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=80" width="100%"/>
+</p>
