@@ -32,7 +32,6 @@
 > Diligence is rewarded by heaven !
 
 <div align="center">
-  <h3>GitHub Activity Overview</h3>
   <img src="./radar_chart.svg" alt="GitHub Activity Overview" width="500" />
   
   <h3>GitHub Metrics</h3>
