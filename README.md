@@ -29,14 +29,42 @@
 
 ### ⭐ Motto:
 
-> Diligence is rewarded by heaven!
+> Diligence is rewarded by heaven !
+
+### 📊 GitHub 活动概览
 
 <div align="center">
-  <h3>活动概览</h3>
-  <img src="./radar_chart.svg" alt="GitHub Activity Overview" width="500" />
-  
-  <h3>详细统计</h3>
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px; width: 100%; max-width: 900px; display: inline-block; text-align: left;">
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
+      <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 30px; padding: 5px 12px; font-size: 12px;">
+        <img src="https://api.iconify.design/ant-design:ant-design-outlined.svg" width="16" height="16" style="vertical-align: middle;"/> @ant-design
+      </span>
+      <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 30px; padding: 5px 12px; font-size: 12px;">
+        <img src="https://api.iconify.design/logos:react.svg" width="16" height="16" style="vertical-align: middle;"/> @react-component
+      </span>
+    </div>
+    
+    <h3 style="margin-top: 0; margin-bottom: 16px; font-size: 16px;">Activity overview</h3>
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+      <div style="flex: 1; min-width: 300px;">
+        <p>
+          <img src="https://api.iconify.design/octicon:repo-16.svg" width="16" height="16" style="vertical-align: middle;"/> 
+          Contributed to various repositories
+        </p>
+      </div>
+      
+      <div style="flex: 1; min-width: 300px;">
+        <img src="./radar_chart.svg" alt="Activity Radar Chart" width="100%" />
+      </div>
+    </div>
+  </div>
+</div>
+
+### 📈 详细统计
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="70%" />
 </div>
 
 <p align="center">
