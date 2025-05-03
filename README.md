@@ -2,9 +2,9 @@
 
 ## Hi there, I am xiaomo 👋
 
-> ### Hello, I am a front-end development engineer. I majored in Embedded Systems in university but was unexpectedly introduced to front-end development by a classmate, and have since dedicated myself to deepening my expertise in this field. Due to my interest in front-end graphics, I've learned technologies such as three.js, cesium.js, pixi.js, and gsap.js related to front-end graphical development. I've participated in WebCAD related development work in my career. Welcome to connect and collaborate with me!
+> ### Hello, I am a front-end development engineer with a background in embedded systems from my university studies. Due to my interest in front-end graphics, I have learned technologies such as three.js/cesium.js/pixi.js/gsap.js and other front-end graphical development technologies. In my professional work, I have participated in WebCAD-related development. Welcome to connect with me!
 >
-> ### 你好，我是一名前端开发工程师，大学是嵌入式专业，在同学的引导下意外进入了前端，并且努力在前端领域深耕。由于对前端图形学感兴趣，学习了 three.js/cesium.js/pixi.js/gsap.js 等关于前端图形开发的技术，在工作中参与了 WebCAD 相关开发工作。欢迎与我交流合作！
+> ### 你好，我是一名前端开发工程师，大学是嵌入式专业。由于对前端图形学感兴趣，学习了 three.js/cesium.js/pixi.js/gsap.js 等关于前端图形开发的技术，在工作中参与了 WebCAD 相关开发工作。欢迎与我交流！
 
 ### 🛠️ Tech Stack:
 
@@ -20,7 +20,6 @@
 
 ### 📫 Contact Me:
 
-- **WeChat** : 19192906696
 - **E-mail** : XL18791036@163.com
 
 ### 🏠 Blob:
