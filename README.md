@@ -29,7 +29,7 @@
 
 ### 🛠️ Project:
 
-- **[My YuQue](https://app.trainxm.xyz)**
+- **[Geek Web3](https://app.trainxm.xyz)**
 
 ### ⭐ Motto:
 
