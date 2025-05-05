@@ -27,6 +27,10 @@
 - **[My juejin](https://juejin.cn/user/132388463586589/posts)**
 - **[My YuQue](https://www.yuque.com/u33888)**
 
+### 🛠️ Project:
+
+- **[My YuQue](https://app.trainxm.xyz)**
+
 ### ⭐ Motto:
 
 > Diligence is rewarded by heaven !
