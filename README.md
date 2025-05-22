@@ -9,17 +9,17 @@
 ### 🛠️ Tech Stack:
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/cesium-2EAFAC?style=for-the-badge&logo=cesium&logoColor=white" alt="Cesium" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/PixiJS-e91e63?style=for-the-badge&logo=pixijs&logoColor=white" alt="PixiJS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff&style=flat" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=flat" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=flat" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=flat" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Cesium-2EAFAC?logo=cesium&logoColor=white&style=flat" alt="Cesium" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=flat" alt="GSAP" />
+  <img src="https://img.shields.io/badge/PixiJS-E91E63?logo=pixijs&logoColor=white&style=flat" alt="PixiJS" />
 </div>
 
 ### 📫 Contact Me:
