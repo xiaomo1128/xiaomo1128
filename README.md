@@ -31,7 +31,7 @@
 
 ### 🛠️ Project:
 
-- **[Geek Web3](https://app.trainxm.xyz)**
+- **[Web3 Geek Garden](https://app.trainxm.xyz)**
 
 ### ⭐ Motto:
 
