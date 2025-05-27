@@ -1,8 +1,8 @@
 name: Update Radar Chart
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天午夜运行
-  workflow_dispatch:     # 也允许手动运行
+    - cron: "0 0 * * *" # 每天午夜运行
+  workflow_dispatch: # 也允许手动运行
 
 permissions:
   contents: write
@@ -12,26 +12,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
-          
+          python-version: "3.10"
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install matplotlib numpy requests PyGithub
-          
+
       - name: Generate radar chart
         run: python scripts/generate_radar.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - name: Commit and push if changed
         run: |
-          git config --global user.name 'xiaomo1128'
-          git config --global user.email '493559026@qq.com'
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add radar_chart.svg
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update radar chart"
-          git push
+          if ! git diff --quiet --cached; then
+            git commit -m "Update radar chart [skip ci]"
+            git push
+          fi
