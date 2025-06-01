@@ -33,13 +33,9 @@
 
 - **[Web3 Geek Garden](https://app.trainxm.xyz)**
 
-### ⭐ Motto:
-
-> Diligence is rewarded by heaven !
-
-<div align="center">
+<!-- <div align="center">
   <img src="./radar_chart.svg" alt="GitHub Activity Overview" width="500" />
   
   <h3>GitHub Metrics</h3>
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
+</div> -->
