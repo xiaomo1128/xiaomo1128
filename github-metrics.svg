@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            524 Commits
+                            526 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -38,7 +38,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            1 Issue opened
+                            0 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -111,8 +111,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e5e72b1</div>
-                                        <div class="message">fix: content</div>
+                                        <div class="sha">#0c971ce</div>
+                                        <div class="message">fix: 完善第七章</div>
                                     </div>
                                 </div>
                             </section>
@@ -131,8 +131,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc6ad5c</div>
-                                        <div class="message">feat: 智能体技术与复杂推理</div>
+                                        <div class="sha">#a030711</div>
+                                        <div class="message">fix: 第七章&amp;完善后续章节</div>
                                     </div>
                                 </div>
                             </section>
@@ -151,8 +151,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#23c2f44</div>
-                                        <div class="message">feat: 传统 RAG-&gt;多模态 RAG-&gt;LlamaParse</div>
+                                        <div class="sha">#a55dd44</div>
+                                        <div class="message">feat: AutoGen&amp;Agentic AI</div>
                                     </div>
                                 </div>
                             </section>
@@ -165,7 +165,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">mermaid-js/mermaid</span>
+                                        <span class="repo">sunswapteam/interface</span>
                                     </div>
                                 </div>
                             </section>
@@ -184,8 +184,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#66105d4</div>
-                                        <div class="message">fix: LlamaIndex</div>
+                                        <div class="sha">#e5e72b1</div>
+                                        <div class="message">fix: content</div>
                                     </div>
                                 </div>
                             </section>
