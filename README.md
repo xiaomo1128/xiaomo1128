@@ -1,8 +1,8 @@
 ## Hi there, I am xiaomo 👋
 
-> ### I'm a front-end development engineer. I majored in Embedded Systems in university, where I participated in electronic design competitions and mathematical modeling contests. Due to my interest in computer graphics, I've learned technologies like three.js, Cesium.js, Pixi.js, and GSAP.js. In my professional work, I've been involved in WebCAD-related development. I'm looking forward to connecting with you!
+> ### I am a front-end development engineer with a background in embedded systems, having participated in electronic design contests and mathematical modeling competitions. In my work, I have been involved in WebCAD-related development projects.
 
-> ### 我是一名前端开发工程师，大学是嵌入式专业，在校参加过电子设计竞赛、数学建模竞赛。由于对图形学感兴趣，学习了 three.js/cesium.js/pixi.js/gsap.js 等关于图形开发的技术，在工作中参与了 WebCAD 相关开发工作。欢迎与我交流！
+> ### 我是一名前端开发工程师（有电子设计竞赛、数学建模竞赛经历的嵌入式专业）。工作中参与过 WebCAD 相关开发工作。
 
 ### 🛠️ Tech Stack:
 
