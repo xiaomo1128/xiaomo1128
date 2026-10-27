@@ -32,7 +32,7 @@
 
 ### 🛠️ Project:
 
-- **[Web3 Geek Garden](https://app.trainxm.xyz)**
+- **[Web3 Geek Garden](https://app.rainxm.asia)**
 
 <!-- <div align="center">
   <img src="./radar_chart.svg" alt="GitHub Activity Overview" width="500" />
